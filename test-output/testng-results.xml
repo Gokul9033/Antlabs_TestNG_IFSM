@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45514" started-at="2023-09-14T09:40:36Z" finished-at="2023-09-14T09:41:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45514" started-at="2023-09-14T09:40:36Z" finished-at="2023-09-14T09:41:21Z">
+      <class name="Maven_Testng.TestNG_IFSM.NewTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Maven_Testng.TestNG_IFSM.NewTest@2b98378d]" name="beforeClass" is-config="true" duration-ms="8170" started-at="2023-09-14T15:10:36Z" finished-at="2023-09-14T15:10:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Testcase()[pri:1, instance:Maven_Testng.TestNG_IFSM.NewTest@2b98378d]" name="Testcase" duration-ms="8148" started-at="2023-09-14T15:10:44Z" finished-at="2023-09-14T15:10:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase -->
+        <test-method status="PASS" signature="Testcase1()[pri:2, instance:Maven_Testng.TestNG_IFSM.NewTest@2b98378d]" name="Testcase1" duration-ms="3490" started-at="2023-09-14T15:10:52Z" finished-at="2023-09-14T15:10:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase1 -->
+        <test-method status="PASS" signature="Testcase2()[pri:3, instance:Maven_Testng.TestNG_IFSM.NewTest@2b98378d]" name="Testcase2" duration-ms="3315" started-at="2023-09-14T15:10:56Z" finished-at="2023-09-14T15:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase2 -->
+        <test-method status="PASS" signature="Testcase3()[pri:4, instance:Maven_Testng.TestNG_IFSM.NewTest@2b98378d]" name="Testcase3" duration-ms="15939" started-at="2023-09-14T15:10:59Z" finished-at="2023-09-14T15:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase3 -->
+        <test-method status="PASS" signature="Testcase4()[pri:5, instance:Maven_Testng.TestNG_IFSM.NewTest@2b98378d]" name="Testcase4" duration-ms="6347" started-at="2023-09-14T15:11:15Z" finished-at="2023-09-14T15:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Testcase4 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Maven_Testng.TestNG_IFSM.NewTest@2b98378d]" name="afterClass" is-config="true" duration-ms="1" started-at="2023-09-14T15:11:21Z" finished-at="2023-09-14T15:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Maven_Testng.TestNG_IFSM.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
